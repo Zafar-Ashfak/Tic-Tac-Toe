@@ -1,1 +1,3 @@
-# Tic-Tac-Toe
+<h1>Tic Tac Toe</h1>
+  <br>
+  <p>Playing Tic-Tac-Toe is simple yet exciting, making it a great game for all ages. To start, draw a 3x3 grid or use a digital version. Two players take turns placing their mark—either "X" or "O"—in an empty square. The objective is to be the first to form a straight line of three marks, whether horizontally, vertically, or diagonally. If all spaces are filled without a winner, the game ends in a draw. What makes Tic-Tac-Toe engaging is its mix of strategy and quick thinking—anticipating your opponent’s moves while planning your own winning path keeps every round fresh and competitive. Whether played casually or as a mental challenge, it’s a fun and interactive way to sharpen logical skills</p>
